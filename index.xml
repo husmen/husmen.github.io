@@ -37,6 +37,31 @@
     </item>
     
     <item>
+      <title>A parallel implementation of Artificial Algae Algorithm for numerical optimization</title>
+      <link>/publications/aaa2020/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publications/aaa2020/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ --&gt;
+&lt;p&gt;Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Reproducible Educational Plan to Teach Mini Autonomous Race Car Programming</title>
       <link>/publications/racecar2020/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
@@ -61,6 +86,15 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     </item>
     
     <item>
+      <title>TezHaber</title>
+      <link>/portfolio/tezhaber/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/tezhaber/</guid>
+      <description>&lt;p&gt;Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DoCA: A Content-Based Automatic Classification System Over Digital Documents</title>
       <link>/publications/doca2019/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
@@ -81,6 +115,7 @@ Supplementary notes can be added here, including [code and math](https://sourcet
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
  --&gt;
+&lt;p&gt;Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p&gt;
 </description>
     </item>
     
@@ -514,23 +549,264 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/portfolio/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/portfolio/external-project/</guid>
-      <description></description>
+      <title>Artificial Algae Algorithm</title>
+      <link>/portfolio/aaa/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/aaa/</guid>
+      <description>&lt;p&gt;Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
+Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/portfolio/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/portfolio/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <title>Better Than Google</title>
+      <link>/portfolio/better-than-google/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/better-than-google/</guid>
+      <description>&lt;p&gt;a better than Google search engine (&lt;em&gt;sarcasm&lt;/em&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Car Accident Detector</title>
+      <link>/portfolio/accident-detector/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/accident-detector/</guid>
+      <description>&lt;p&gt;How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/AMamdaniccident.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/AMamdaniccident_hu4a1f8468ac37bd2bff72932a286de8f2_108026_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner_hue1a914245fe2e0a30634fa76d106620d_184936_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniFIS.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniFIS_hucb21d451cf048e51d41c3bf9de661bc8_384726_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipDistance.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipDistance_huf8f25b465568061c91a9301c61dc4f02_102500_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipSpeed.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipSpeed_hufde26307732097882284514e4fce7847_102766_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/Rules.PNG&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/Rules_hu882056e5847fc85893e2f5b5be785b46_28679_0x190_resize_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;223&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoAccident.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoAccident_hu5ee3c1e8cc57e25c80d44639b897c451_89086_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoDesigner.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoDesigner_hud850f41138c9213d17b5b328085108ea_178851_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoFIS.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoFIS_hu76745ce707a91b4495a96201187fd850_414404_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DoCA GUI</title>
+      <link>/portfolio/doca-gui/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/doca-gui/</guid>
+      <description>&lt;p&gt;Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QuadTree</title>
+      <link>/portfolio/quadtree/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/quadtree/</guid>
+      <description>&lt;p&gt;Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trajectory Mapping</title>
+      <link>/portfolio/trajectory-mapping/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/trajectory-mapping/</guid>
+      <description>&lt;p&gt;A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1.png&#34; data-caption=&#34;Connecting to the server where queries are handled.&#34;&gt;
+  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1_hubb989b0b654eaf0b48040880d07d6a15_45429_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2.png&#34; data-caption=&#34;Plotting the full trajectory.&#34;&gt;
+  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2_huc8748897c25c18db7be5caa82544af4e_1317234_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3.png&#34; data-caption=&#34;Plotting the simplified trajectory.&#34;&gt;
+  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3_huc8748897c25c18db7be5caa82544af4e_1320647_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Video Streaming</title>
+      <link>/portfolio/kafka-stream/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/kafka-stream/</guid>
+      <description>&lt;p&gt;Distributed Video Streaming with Apache Kafka and Python.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eight-Point Algorithm</title>
+      <link>/portfolio/eight-point/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/eight-point/</guid>
+      <description>&lt;p&gt;Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scope Based Timer</title>
+      <link>/portfolio/scope-timer/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/scope-timer/</guid>
+      <description>&lt;p&gt;C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple Image Processing</title>
+      <link>/portfolio/image-proc/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/image-proc/</guid>
+      <description>&lt;p&gt;Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IAESTE Kocaeli</title>
+      <link>/portfolio/iaeste/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/portfolio/iaeste/</guid>
+      <description>&lt;p&gt;Static website for IAESTE Kocaeli, was the official organisation portal in 2016 and 2017.&lt;/p&gt;
 </description>
     </item>
     
@@ -720,7 +996,7 @@ Three
     </item>
     
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/about/</guid>

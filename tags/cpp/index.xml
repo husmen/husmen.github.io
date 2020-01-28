@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpp | HUSMEN</title>
+    <link>/tags/cpp/</link>
+      <atom:link href="/tags/cpp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cpp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Cpp</title>
+      <link>/tags/cpp/</link>
+    </image>
+    
+    <item>
+      <title>Artificial Algae Algorithm</title>
+      <link>/portfolio/aaa/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/aaa/</guid>
+      <description>&lt;p&gt;Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
+Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QuadTree</title>
+      <link>/portfolio/quadtree/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/quadtree/</guid>
+      <description>&lt;p&gt;Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eight-Point Algorithm</title>
+      <link>/portfolio/eight-point/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/eight-point/</guid>
+      <description>&lt;p&gt;Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scope Based Timer</title>
+      <link>/portfolio/scope-timer/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/scope-timer/</guid>
+      <description>&lt;p&gt;C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple Image Processing</title>
+      <link>/portfolio/image-proc/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/image-proc/</guid>
+      <description>&lt;p&gt;Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

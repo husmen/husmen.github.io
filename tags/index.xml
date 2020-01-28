@@ -5,12 +5,36 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Cuda</title>
+      <link>/tags/cuda/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/cuda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>/tags/optimization/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computing</title>
+      <link>/tags/parallel-computing/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/parallel-computing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Autonomous Driving</title>
@@ -53,6 +77,38 @@
     </item>
     
     <item>
+      <title>NLP</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Scraping</title>
+      <link>/tags/web-scraping/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Embedding</title>
+      <link>/tags/word-embedding/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/word-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Audio Analysis</title>
       <link>/tags/audio-analysis/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
@@ -61,18 +117,10 @@
     </item>
     
     <item>
-      <title>Document Analysis</title>
-      <link>/tags/document-analysis/</link>
+      <title>Document Clustering</title>
+      <link>/tags/document-clustering/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/document-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Document Classification</title>
-      <link>/tags/document-classification/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/document-classification/</guid>
+      <guid>/tags/document-clustering/</guid>
       <description></description>
     </item>
     
@@ -93,10 +141,202 @@
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/demo/</guid>
+      <title>Apache Kafka</title>
+      <link>/tags/apache-kafka/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/apache-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>/tags/backend/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collision Detection</title>
+      <link>/tags/collision-detection/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/collision-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CouchDB</title>
+      <link>/tags/couchdb/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/couchdb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cpp</title>
+      <link>/tags/cpp/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DBSCAN</title>
+      <link>/tags/dbscan/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/dbscan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>/tags/flask/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-text Search</title>
+      <link>/tags/full-text-search/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/full-text-search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy Logic</title>
+      <link>/tags/fuzzy-logic/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/fuzzy-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matplotlib</title>
+      <link>/tags/matplotlib/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mplleaflet</title>
+      <link>/tags/mplleaflet/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/mplleaflet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NoSQL</title>
+      <link>/tags/nosql/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qt</title>
+      <link>/tags/qt/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/qt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuadTree</title>
+      <link>/tags/quadtree/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/quadtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ramer-Douglas-Peucker</title>
+      <link>/tags/ramer-douglas-peucker/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/ramer-douglas-peucker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream Processing</title>
+      <link>/tags/stream-processing/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/stream-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GDI&#43;</title>
+      <link>/tags/gdi&#43;/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/gdi&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>/tags/image-processing/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>/tags/opencv/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio</title>
+      <link>/tags/visual-studio/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/visual-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frontend</title>
+      <link>/tags/frontend/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/frontend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>/tags/html/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     

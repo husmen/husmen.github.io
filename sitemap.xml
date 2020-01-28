@@ -19,7 +19,62 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/aaa2020/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cuda/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/optimization/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/parallel-computing/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ramazan-nejdet-sar%C4%B1kaya/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/suleyman-eken/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,11 +89,6 @@
   
   <url>
     <loc>/authors/ahmet-sayar/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,27 +128,7 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/ros/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/suleyman-eken/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,8 +138,33 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <loc>/tags/nlp/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/tezhaber/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/web-scraping/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/word-embedding/</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,12 +178,7 @@
   </url>
   
   <url>
-    <loc>/tags/document-analysis/</loc>
-    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/document-classification/</loc>
+    <loc>/tags/document-clustering/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,23 +223,183 @@
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/tags/apache-kafka/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/portfolio/aaa/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/tags/backend/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/portfolio/better-than-google/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/accident-detector/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/collision-detection/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/couchdb/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cpp/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dbscan/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/doca-gui/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/flask/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/full-text-search/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/fuzzy-logic/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matlab/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/matplotlib/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mplleaflet/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nosql/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/qt/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quadtree/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/quadtree/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ramer-douglas-peucker/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stream-processing/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/trajectory-mapping/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/kafka-stream/</loc>
+    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/eight-point/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gdi&#43;/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/image-processing/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/opencv/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/scope-timer/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/image-proc/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/visual-studio/</loc>
+    <lastmod>2018-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bootstrap/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/frontend/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/html/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/iaeste/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -214,7 +424,6 @@
   
   <url>
     <loc>/about/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

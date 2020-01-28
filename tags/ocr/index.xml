@@ -33,6 +33,16 @@
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
  --&gt;
+&lt;p&gt;Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DoCA GUI</title>
+      <link>/portfolio/doca-gui/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/doca-gui/</guid>
+      <description>&lt;p&gt;Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p&gt;
 </description>
     </item>
     

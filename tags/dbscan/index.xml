@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DBSCAN | HUSMEN</title>
+    <link>/tags/dbscan/</link>
+      <atom:link href="/tags/dbscan/index.xml" rel="self" type="application/rss+xml" />
+    <description>DBSCAN</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>DBSCAN</title>
+      <link>/tags/dbscan/</link>
+    </image>
+    
+    <item>
+      <title>DoCA GUI</title>
+      <link>/portfolio/doca-gui/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/doca-gui/</guid>
+      <description>&lt;p&gt;Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matlab | HUSMEN</title>
+    <link>/tags/matlab/</link>
+      <atom:link href="/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matlab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+    </image>
+    
+    <item>
+      <title>Car Accident Detector</title>
+      <link>/portfolio/accident-detector/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/accident-detector/</guid>
+      <description>&lt;p&gt;How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/AMamdaniccident.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/AMamdaniccident_hu4a1f8468ac37bd2bff72932a286de8f2_108026_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner_hue1a914245fe2e0a30634fa76d106620d_184936_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniFIS.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniFIS_hucb21d451cf048e51d41c3bf9de661bc8_384726_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipDistance.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipDistance_huf8f25b465568061c91a9301c61dc4f02_102500_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipSpeed.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipSpeed_hufde26307732097882284514e4fce7847_102766_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/Rules.PNG&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/Rules_hu882056e5847fc85893e2f5b5be785b46_28679_0x190_resize_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;223&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoAccident.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoAccident_hu5ee3c1e8cc57e25c80d44639b897c451_89086_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoDesigner.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoDesigner_hud850f41138c9213d17b5b328085108ea_178851_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoFIS.png&#34; &gt;
+  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoFIS_hu76745ce707a91b4495a96201187fd850_414404_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

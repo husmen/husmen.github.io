@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Document Clustering | HUSMEN</title>
+    <link>/tags/document-clustering/</link>
+      <atom:link href="/tags/document-clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>Document Clustering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Document Clustering</title>
+      <link>/tags/document-clustering/</link>
+    </image>
+    
+    <item>
+      <title>DoCA: A Content-Based Automatic Classification System Over Digital Documents</title>
+      <link>/publications/doca2019/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publications/doca2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+ --&gt;
+&lt;p&gt;Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DoCA GUI</title>
+      <link>/portfolio/doca-gui/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/doca-gui/</guid>
+      <description>&lt;p&gt;Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

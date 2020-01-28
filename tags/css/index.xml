@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS | HUSMEN</title>
+    <link>/tags/css/</link>
+      <atom:link href="/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+    </image>
+    
+    <item>
+      <title>IAESTE Kocaeli</title>
+      <link>/portfolio/iaeste/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/portfolio/iaeste/</guid>
+      <description>&lt;p&gt;Static website for IAESTE Kocaeli, was the official organisation portal in 2016 and 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

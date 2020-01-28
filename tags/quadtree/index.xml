@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>QuadTree | HUSMEN</title>
+    <link>/tags/quadtree/</link>
+      <atom:link href="/tags/quadtree/index.xml" rel="self" type="application/rss+xml" />
+    <description>QuadTree</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>QuadTree</title>
+      <link>/tags/quadtree/</link>
+    </image>
+    
+    <item>
+      <title>QuadTree</title>
+      <link>/portfolio/quadtree/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/quadtree/</guid>
+      <description>&lt;p&gt;Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mplleaflet | HUSMEN</title>
+    <link>/tags/mplleaflet/</link>
+      <atom:link href="/tags/mplleaflet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mplleaflet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mplleaflet</title>
+      <link>/tags/mplleaflet/</link>
+    </image>
+    
+    <item>
+      <title>Trajectory Mapping</title>
+      <link>/portfolio/trajectory-mapping/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/trajectory-mapping/</guid>
+      <description>&lt;p&gt;A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1.png&#34; data-caption=&#34;Connecting to the server where queries are handled.&#34;&gt;
+  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1_hubb989b0b654eaf0b48040880d07d6a15_45429_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2.png&#34; data-caption=&#34;Plotting the full trajectory.&#34;&gt;
+  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2_huc8748897c25c18db7be5caa82544af4e_1317234_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3.png&#34; data-caption=&#34;Plotting the simplified trajectory.&#34;&gt;
+  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3_huc8748897c25c18db7be5caa82544af4e_1320647_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
