@@ -5,7 +5,7 @@
     <link>/tags/flask/</link>
       <atom:link href="/tags/flask/index.xml" rel="self" type="application/rss+xml" />
     <description>Flask</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Flask</title>
@@ -13,20 +13,20 @@
     </image>
     
     <item>
-      <title>Better Than Google</title>
-      <link>/portfolio/better-than-google/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/better-than-google/</guid>
-      <description>&lt;p&gt;a better than Google search engine (&lt;em&gt;sarcasm&lt;/em&gt;).&lt;/p&gt;
+      <title>Video Streaming</title>
+      <link>/portfolio/kafka-stream/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/kafka-stream/</guid>
+      <description>&lt;p&gt;Distributed Video Streaming with Apache Kafka and Python.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Video Streaming</title>
-      <link>/portfolio/kafka-stream/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/kafka-stream/</guid>
-      <description>&lt;p&gt;Distributed Video Streaming with Apache Kafka and Python.&lt;/p&gt;
+      <title>Better Than Google</title>
+      <link>/portfolio/better-than-google/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/portfolio/better-than-google/</guid>
+      <description>&lt;p&gt;a better than Google search engine (&lt;em&gt;sarcasm&lt;/em&gt;).&lt;/p&gt;
 </description>
     </item>
     

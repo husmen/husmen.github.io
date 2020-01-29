@@ -5,7 +5,7 @@
     <link>/tags/visual-studio/</link>
       <atom:link href="/tags/visual-studio/index.xml" rel="self" type="application/rss+xml" />
     <description>Visual Studio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Fri, 02 Feb 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Visual Studio</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Simple Image Processing</title>
       <link>/portfolio/image-proc/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/portfolio/image-proc/</guid>
       <description>&lt;p&gt;Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p&gt;
 </description>

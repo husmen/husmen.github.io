@@ -77,18 +77,58 @@
     </item>
     
     <item>
-      <title>NLP</title>
-      <link>/tags/nlp/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/nlp/</guid>
+      <title>Backend</title>
+      <link>/tags/backend/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cpp</title>
+      <link>/tags/cpp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/cpp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-text Search</title>
+      <link>/tags/full-text-search/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/full-text-search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
       <link>/tags/python/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>/tags/image-processing/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenCV</title>
+      <link>/tags/opencv/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>/tags/nlp/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/nlp/</guid>
       <description></description>
     </item>
     
@@ -141,26 +181,82 @@
     </item>
     
     <item>
+      <title>Kaggle</title>
+      <link>/tags/kaggle/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scikit-Learn</title>
+      <link>/tags/scikit-learn/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/scikit-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XGBoost</title>
+      <link>/tags/xgboost/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/xgboost/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy Logic</title>
+      <link>/tags/fuzzy-logic/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/fuzzy-logic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matlab</title>
+      <link>/tags/matlab/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/matlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Apache Kafka</title>
       <link>/tags/apache-kafka/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/tags/apache-kafka/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Backend</title>
-      <link>/tags/backend/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/backend/</guid>
+      <title>Flask</title>
+      <link>/tags/flask/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Collision Detection</title>
-      <link>/tags/collision-detection/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/collision-detection/</guid>
+      <title>Stream Processing</title>
+      <link>/tags/stream-processing/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/stream-processing/</guid>
       <description></description>
     </item>
     
@@ -173,66 +269,10 @@
     </item>
     
     <item>
-      <title>Cpp</title>
-      <link>/tags/cpp/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/cpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DBSCAN</title>
       <link>/tags/dbscan/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/tags/dbscan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flask</title>
-      <link>/tags/flask/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/flask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Full-text Search</title>
-      <link>/tags/full-text-search/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/full-text-search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fuzzy Logic</title>
-      <link>/tags/fuzzy-logic/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/fuzzy-logic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matlab</title>
-      <link>/tags/matlab/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/matlab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matplotlib</title>
-      <link>/tags/matplotlib/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/matplotlib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mplleaflet</title>
-      <link>/tags/mplleaflet/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/mplleaflet/</guid>
       <description></description>
     </item>
     
@@ -253,57 +293,57 @@
     </item>
     
     <item>
+      <title>Collision Detection</title>
+      <link>/tags/collision-detection/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/collision-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>QuadTree</title>
       <link>/tags/quadtree/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/tags/quadtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matplotlib</title>
+      <link>/tags/matplotlib/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/matplotlib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mplleaflet</title>
+      <link>/tags/mplleaflet/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/mplleaflet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ramer-Douglas-Peucker</title>
       <link>/tags/ramer-douglas-peucker/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       <guid>/tags/ramer-douglas-peucker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stream Processing</title>
-      <link>/tags/stream-processing/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/stream-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GDI&#43;</title>
       <link>/tags/gdi&#43;/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/tags/gdi&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image Processing</title>
-      <link>/tags/image-processing/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/image-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OpenCV</title>
-      <link>/tags/opencv/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/tags/opencv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Visual Studio</title>
       <link>/tags/visual-studio/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/tags/visual-studio/</guid>
       <description></description>
     </item>

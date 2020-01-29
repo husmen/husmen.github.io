@@ -5,7 +5,7 @@
     <link>/portfolio/</link>
       <atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <description>Portfolio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Portfolio</title>
@@ -13,18 +13,9 @@
     </image>
     
     <item>
-      <title>TezHaber</title>
-      <link>/portfolio/tezhaber/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/tezhaber/</guid>
-      <description>&lt;p&gt;Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Artificial Algae Algorithm</title>
       <link>/portfolio/aaa/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/portfolio/aaa/</guid>
       <description>&lt;p&gt;Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
 Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p&gt;
@@ -32,18 +23,45 @@ Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimiza
     </item>
     
     <item>
-      <title>Better Than Google</title>
-      <link>/portfolio/better-than-google/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/better-than-google/</guid>
-      <description>&lt;p&gt;a better than Google search engine (&lt;em&gt;sarcasm&lt;/em&gt;).&lt;/p&gt;
+      <title>Eight-Point Algorithm</title>
+      <link>/portfolio/eight-point/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/eight-point/</guid>
+      <description>&lt;p&gt;Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TezHaber</title>
+      <link>/portfolio/tezhaber/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/tezhaber/</guid>
+      <description>&lt;p&gt;Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example. This project won 2nd place at #AçıkHack NLP Hackathon 2019.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scope Based Timer</title>
+      <link>/portfolio/scope-timer/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/scope-timer/</guid>
+      <description>&lt;p&gt;C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>House Prices Prediction</title>
+      <link>/portfolio/house-prices/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/house-prices/</guid>
+      <description>&lt;p&gt;House Prices Prediction with XGBoost and LightGBM for regression and Scikit-Learn grid search for hyperparameters optimization.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Car Accident Detector</title>
       <link>/portfolio/accident-detector/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>/portfolio/accident-detector/</guid>
       <description>&lt;p&gt;How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p&gt;
 
@@ -152,6 +170,15 @@ Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimiza
     </item>
     
     <item>
+      <title>Video Streaming</title>
+      <link>/portfolio/kafka-stream/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/kafka-stream/</guid>
+      <description>&lt;p&gt;Distributed Video Streaming with Apache Kafka and Python.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DoCA GUI</title>
       <link>/portfolio/doca-gui/</link>
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
@@ -163,7 +190,7 @@ Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimiza
     <item>
       <title>QuadTree</title>
       <link>/portfolio/quadtree/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/portfolio/quadtree/</guid>
       <description>&lt;p&gt;Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p&gt;
 </description>
@@ -172,7 +199,7 @@ Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimiza
     <item>
       <title>Trajectory Mapping</title>
       <link>/portfolio/trajectory-mapping/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       <guid>/portfolio/trajectory-mapping/</guid>
       <description>&lt;p&gt;A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p&gt;
 
@@ -239,38 +266,29 @@ Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimiza
     </item>
     
     <item>
-      <title>Video Streaming</title>
-      <link>/portfolio/kafka-stream/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/kafka-stream/</guid>
-      <description>&lt;p&gt;Distributed Video Streaming with Apache Kafka and Python.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eight-Point Algorithm</title>
-      <link>/portfolio/eight-point/</link>
+      <title>Naive Bayes Classifier</title>
+      <link>/portfolio/naivebayes/</link>
       <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/eight-point/</guid>
-      <description>&lt;p&gt;Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scope Based Timer</title>
-      <link>/portfolio/scope-timer/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/scope-timer/</guid>
-      <description>&lt;p&gt;C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p&gt;
+      <guid>/portfolio/naivebayes/</guid>
+      <description>&lt;p&gt;Naive Bayes Classifier for Turkish Text.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Simple Image Processing</title>
       <link>/portfolio/image-proc/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/portfolio/image-proc/</guid>
       <description>&lt;p&gt;Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Better Than Google</title>
+      <link>/portfolio/better-than-google/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/portfolio/better-than-google/</guid>
+      <description>&lt;p&gt;a better than Google search engine (&lt;em&gt;sarcasm&lt;/em&gt;).&lt;/p&gt;
 </description>
     </item>
     

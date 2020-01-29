@@ -17,7 +17,7 @@
       <link>/portfolio/tezhaber/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/portfolio/tezhaber/</guid>
-      <description>&lt;p&gt;Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example.&lt;/p&gt;
+      <description>&lt;p&gt;Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example. This project won 2nd place at #AçıkHack NLP Hackathon 2019.&lt;/p&gt;
 </description>
     </item>
     
@@ -52,6 +52,15 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/portfolio/doca-gui/</guid>
       <description>&lt;p&gt;Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Naive Bayes Classifier</title>
+      <link>/portfolio/naivebayes/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/naivebayes/</guid>
+      <description>&lt;p&gt;Naive Bayes Classifier for Turkish Text.&lt;/p&gt;
 </description>
     </item>
     

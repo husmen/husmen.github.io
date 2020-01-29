@@ -5,7 +5,7 @@
     <link>/tags/image-processing/</link>
       <atom:link href="/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Processing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Image Processing</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Eight-Point Algorithm</title>
       <link>/portfolio/eight-point/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/portfolio/eight-point/</guid>
       <description>&lt;p&gt;Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
     <item>
       <title>Simple Image Processing</title>
       <link>/portfolio/image-proc/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/portfolio/image-proc/</guid>
       <description>&lt;p&gt;Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p&gt;
 </description>

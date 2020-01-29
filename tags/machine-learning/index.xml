@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | HUSMEN</title>
+    <link>/tags/machine-learning/</link>
+      <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>House Prices Prediction</title>
+      <link>/portfolio/house-prices/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/house-prices/</guid>
+      <description>&lt;p&gt;House Prices Prediction with XGBoost and LightGBM for regression and Scikit-Learn grid search for hyperparameters optimization.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Naive Bayes Classifier</title>
+      <link>/portfolio/naivebayes/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/portfolio/naivebayes/</guid>
+      <description>&lt;p&gt;Naive Bayes Classifier for Turkish Text.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

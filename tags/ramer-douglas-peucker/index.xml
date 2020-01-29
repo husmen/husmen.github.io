@@ -5,7 +5,7 @@
     <link>/tags/ramer-douglas-peucker/</link>
       <atom:link href="/tags/ramer-douglas-peucker/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramer-Douglas-Peucker</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ramer-Douglas-Peucker</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Trajectory Mapping</title>
       <link>/portfolio/trajectory-mapping/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       <guid>/portfolio/trajectory-mapping/</guid>
       <description>&lt;p&gt;A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p&gt;
 
