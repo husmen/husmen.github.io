@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Cuda</title>
       <link>/tags/cuda/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/cuda/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Optimization</title>
       <link>/tags/optimization/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/optimization/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Parallel Computing</title>
       <link>/tags/parallel-computing/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/tags/parallel-computing/</guid>
       <description></description>
     </item>
@@ -377,14 +377,6 @@
       <link>/tags/html/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       <guid>/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     

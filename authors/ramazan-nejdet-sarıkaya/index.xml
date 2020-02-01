@@ -5,7 +5,7 @@
     <link>/authors/ramazan-nejdet-sar%C4%B1kaya/</link>
       <atom:link href="/authors/ramazan-nejdet-sar%C4%B1kaya/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramazan Nejdet Sarıkaya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ramazan Nejdet Sarıkaya</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>A parallel implementation of Artificial Algae Algorithm for numerical optimization</title>
+      <title>Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs</title>
       <link>/publications/aaa2020/</link>
-      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/publications/aaa2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -33,7 +33,7 @@
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
  --&gt;
-&lt;p&gt;Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p&gt;
+&lt;p&gt;COMING SOON.&lt;/p&gt;
 </description>
     </item>
     

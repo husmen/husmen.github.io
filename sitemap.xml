@@ -19,62 +19,67 @@
   
   <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publications/aaa2020/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <loc>/authors/ahmet-sayar/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/cuda/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/aaa2020/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/optimization/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/parallel-computing/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publications/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ramazan-nejdet-sar%C4%B1kaya/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/suleyman-eken/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,11 +89,6 @@
   
   <url>
     <loc>/publications/racecar2020/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ahmet-sayar/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,16 +233,6 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/scope-timer/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -290,11 +280,6 @@
   <url>
     <loc>/tags/matlab/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -438,27 +423,15 @@
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>/blog/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
   </url>
   
 </urlset>
