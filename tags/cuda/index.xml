@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cuda | HUSMEN</title>
+    <title>CUDA | HUSMEN</title>
     <link>/tags/cuda/</link>
       <atom:link href="/tags/cuda/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cuda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <description>CUDA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Cuda</title>
+      <title>CUDA</title>
       <link>/tags/cuda/</link>
     </image>
     
     <item>
       <title>Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs</title>
       <link>/publications/aaa2020/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publications/aaa2020/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

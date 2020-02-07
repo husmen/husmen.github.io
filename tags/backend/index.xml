@@ -5,22 +5,12 @@
     <link>/tags/backend/</link>
       <atom:link href="/tags/backend/index.xml" rel="self" type="application/rss+xml" />
     <description>Backend</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Backend</title>
       <link>/tags/backend/</link>
     </image>
-    
-    <item>
-      <title>Artificial Algae Algorithm</title>
-      <link>/portfolio/aaa/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/portfolio/aaa/</guid>
-      <description>&lt;p&gt;Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
-Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Video Streaming</title>

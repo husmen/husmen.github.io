@@ -41,6 +41,15 @@ Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimiza
     </item>
     
     <item>
+      <title>FourPlusOne</title>
+      <link>/portfolio/fourplusone/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/fourplusone/</guid>
+      <description>&lt;p&gt;Autonomous Driving System for mini vehicles (MIT-RACECAR), deployed with ROS on a Jetson TX2. More details will be added soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Video Streaming</title>
       <link>/portfolio/kafka-stream/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lane Tracking | HUSMEN</title>
+    <link>/tags/lane-tracking/</link>
+      <atom:link href="/tags/lane-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lane Tracking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lane Tracking</title>
+      <link>/tags/lane-tracking/</link>
+    </image>
+    
+    <item>
+      <title>FourPlusOne</title>
+      <link>/portfolio/fourplusone/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/portfolio/fourplusone/</guid>
+      <description>&lt;p&gt;Autonomous Driving System for mini vehicles (MIT-RACECAR), deployed with ROS on a Jetson TX2. More details will be added soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

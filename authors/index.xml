@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am Houssem Menhour, currently studying Computer Engineering at Kocaeli University with a focus on Data Science and Machine Learning. I program mostly in C++ and Python, but recently started picking interest in Go and Scala as well.&lt;/p&gt;
 &lt;p&gt;This is a space where I share some random thoughts, and write about interesting projects and topics in my field.&lt;/p&gt;
@@ -28,7 +28,7 @@
     <item>
       <title>Ahmet Sayar</title>
       <link>/authors/ahmet-sayar/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/ahmet-sayar/</guid>
       <description></description>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>Ramazan Nejdet Sarıkaya</title>
       <link>/authors/ramazan-nejdet-sar%C4%B1kaya/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/ramazan-nejdet-sar%C4%B1kaya/</guid>
       <description></description>
     </item>
@@ -44,7 +44,7 @@
     <item>
       <title>Süleyman Eken</title>
       <link>/authors/suleyman-eken/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/authors/suleyman-eken/</guid>
       <description></description>
     </item>

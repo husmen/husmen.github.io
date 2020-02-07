@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Cuda</title>
+      <title>CUDA</title>
       <link>/tags/cuda/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/tags/cuda/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Optimization</title>
       <link>/tags/optimization/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/tags/optimization/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Parallel Computing</title>
       <link>/tags/parallel-computing/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/tags/parallel-computing/</guid>
       <description></description>
     </item>
@@ -77,26 +77,10 @@
     </item>
     
     <item>
-      <title>Backend</title>
-      <link>/tags/backend/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/backend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cpp</title>
       <link>/tags/cpp/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/tags/cpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Full-text Search</title>
-      <link>/tags/full-text-search/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/full-text-search/</guid>
       <description></description>
     </item>
     
@@ -237,10 +221,66 @@
     </item>
     
     <item>
+      <title>Lane Tracking</title>
+      <link>/tags/lane-tracking/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/lane-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIDAR</title>
+      <link>/tags/lidar/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/lidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor Fusion</title>
+      <link>/tags/sensor-fusion/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/sensor-fusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLAM</title>
+      <link>/tags/slam/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/slam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TensorFlow</title>
+      <link>/tags/tensorflow/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YOLO</title>
+      <link>/tags/yolo/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/yolo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Apache Kafka</title>
       <link>/tags/apache-kafka/</link>
       <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
       <guid>/tags/apache-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backend</title>
+      <link>/tags/backend/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/backend/</guid>
       <description></description>
     </item>
     
@@ -345,6 +385,14 @@
       <link>/tags/visual-studio/</link>
       <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/tags/visual-studio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-text Search</title>
+      <link>/tags/full-text-search/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/full-text-search/</guid>
       <description></description>
     </item>
     
