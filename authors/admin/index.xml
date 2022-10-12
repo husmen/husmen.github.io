@@ -1,91 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>HUSMEN</title>
-    <link>/authors/admin/</link>
-      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>HUSMEN</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>HUSMEN</title>
-      <link>/authors/admin/</link>
-    </image>
-    
-    <item>
-      <title>Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs</title>
-      <link>/publications/aaa2020/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publications/aaa2020/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HUSMEN</title><link>https://husmen.xyz/authors/admin/</link><atom:link href="https://husmen.xyz/authors/admin/index.xml" rel="self" type="application/rss+xml"/><description>HUSMEN</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><image><url>https://husmen.xyz/authors/admin/avatar_hu62a3aab16fc806f02cb87ccc3c4ab501_3953878_270x270_fill_q75_lanczos_center.jpg</url><title>HUSMEN</title><link>https://husmen.xyz/authors/admin/</link></image><item><title>Searchable Turkish OCRed historical newspaper collection 1928–1942</title><link>https://husmen.xyz/publications/ocr2021/</link><pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/ocr2021/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
- --&gt;
-&lt;p&gt;COMING SOON.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Reproducible Educational Plan to Teach Mini Autonomous Race Car Programming</title>
-      <link>/publications/racecar2020/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publications/racecar2020/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+-->
+&lt;p>The newspaper emerged as a distinct cultural form in early 17th-century Europe. It is bound up with the early modern period of history. Historical newspapers are of utmost importance to nations and its people, and researchers from different disciplines rely on these papers to improve our understanding of the past. In pursuit of satisfying this need, Istanbul University Head Office of Library and Documentation provides access to a big database of scanned historical newspapers. To take it another step further and make the documents more accessible, we need to run optical character recognition (OCR) and named entity recognition (NER) tasks on the whole database and index the results to allow for full-text search mechanism. We design and implement a system encompassing the whole pipeline starting from scrapping the dataset from the original website to providing a graphical user interface to run search queries, and it manages to do that successfully. Proposed system provides to search people, culture and security-related keywords and to visualise them.&lt;/p></description></item><item><title>A Reproducible Educational Plan to Teach Mini Autonomous Race Car Programming</title><link>https://husmen.xyz/publications/racecar2020/</link><pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/racecar2020/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
- --&gt;
-&lt;p&gt;As autonomous cars and complex features of them grow in popularity, ensuring that analyses and capabilities are reproducible and repeatable has taken on importance in education plans too. This paper describes a reproducible research plan on mini autonomous race car programming. This educational plan is designed and implemented as part of a summer internship program at Kocaeli University and it consists of theoretical courses and laboratory assignments. A literate programming approach with the Python language is used for programming the race car. To assess the educational program&amp;rsquo;s impact on the learning process and to evaluate the acceptance and satisfaction level of students, they answered an electronic questionnaire after finishing the program. According to students&amp;rsquo; feedback, the reproducible educational program is useful for learning and consolidating new concepts of mini autonomous car programming.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DoCA: A Content-Based Automatic Classification System Over Digital Documents</title>
-      <link>/publications/doca2019/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publications/doca2019/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+-->
+&lt;p>As autonomous cars and complex features of them grow in popularity, ensuring that analyses and capabilities are reproducible and repeatable has taken on importance in education plans too. This paper describes a reproducible research plan on mini autonomous race car programming. This educational plan is designed and implemented as part of a summer internship program at Kocaeli University and it consists of theoretical courses and laboratory assignments. A literate programming approach with the Python language is used for programming the race car. To assess the educational program&amp;rsquo;s impact on the learning process and to evaluate the acceptance and satisfaction level of students, they answered an electronic questionnaire after finishing the program. According to students&amp;rsquo; feedback, the reproducible educational program is useful for learning and consolidating new concepts of mini autonomous car programming.&lt;/p></description></item><item><title>DoCA: A Content-Based Automatic Classification System Over Digital Documents</title><link>https://husmen.xyz/publications/doca2019/</link><pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/doca2019/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
- --&gt;
-&lt;p&gt;Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+-->
+&lt;p>Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p></description></item><item><title>Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs</title><link>https://husmen.xyz/publications/aaa2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/aaa2022/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+-->
+&lt;p>COMING SOON.&lt;/p></description></item></channel></rss>

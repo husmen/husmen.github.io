@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Qt | HUSMEN</title><link>https://husmen.xyz/tag/qt/</link><atom:link href="https://husmen.xyz/tag/qt/index.xml" rel="self" type="application/rss+xml"/><description>Qt</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate><image><url>https://husmen.xyz/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Qt</title><link>https://husmen.xyz/tag/qt/</link></image><item><title>DoCA GUI</title><link>https://husmen.xyz/portfolio/doca-gui/</link><pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/doca-gui/</guid><description>&lt;p>Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p></description></item><item><title>QuadTree</title><link>https://husmen.xyz/portfolio/quadtree/</link><pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/quadtree/</guid><description>&lt;p>Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p></description></item><item><title>Trajectory Mapping</title><link>https://husmen.xyz/portfolio/trajectory-mapping/</link><pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/trajectory-mapping/</guid><description>&lt;p>A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_1.png" data-caption="Connecting to the server where queries are handled.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_1_hubb989b0b654eaf0b48040880d07d6a15_45429_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Connecting to the server where queries are handled." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_2.png" data-caption="Plotting the full trajectory.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_2_huc8748897c25c18db7be5caa82544af4e_1317234_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Plotting the full trajectory." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_3.png" data-caption="Plotting the simplified trajectory.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_3_huc8748897c25c18db7be5caa82544af4e_1320647_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Plotting the simplified trajectory." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

@@ -1,559 +1,118 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>HUSMEN</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>HUSMEN</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>HUSMEN</title>
-      <link>/</link>
-    </image>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt;
- feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;
-.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs</title>
-      <link>/publications/aaa2020/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publications/aaa2020/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HUSMEN</title><link>https://husmen.xyz/</link><atom:link href="https://husmen.xyz/index.xml" rel="self" type="application/rss+xml"/><description>HUSMEN</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><image><url>https://husmen.xyz/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>HUSMEN</title><link>https://husmen.xyz/</link></image><item><title>Searchable Turkish OCRed historical newspaper collection 1928–1942</title><link>https://husmen.xyz/publications/ocr2021/</link><pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/ocr2021/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
- --&gt;
-&lt;p&gt;COMING SOON.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Reproducible Educational Plan to Teach Mini Autonomous Race Car Programming</title>
-      <link>/publications/racecar2020/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publications/racecar2020/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+-->
+&lt;p>The newspaper emerged as a distinct cultural form in early 17th-century Europe. It is bound up with the early modern period of history. Historical newspapers are of utmost importance to nations and its people, and researchers from different disciplines rely on these papers to improve our understanding of the past. In pursuit of satisfying this need, Istanbul University Head Office of Library and Documentation provides access to a big database of scanned historical newspapers. To take it another step further and make the documents more accessible, we need to run optical character recognition (OCR) and named entity recognition (NER) tasks on the whole database and index the results to allow for full-text search mechanism. We design and implement a system encompassing the whole pipeline starting from scrapping the dataset from the original website to providing a graphical user interface to run search queries, and it manages to do that successfully. Proposed system provides to search people, culture and security-related keywords and to visualise them.&lt;/p></description></item><item><title>AcikHack2-GazetedanTariheBakis</title><link>https://husmen.xyz/portfolio/gazetedentarihebakis/</link><pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/gazetedentarihebakis/</guid><description>&lt;p>A full-text search engine from scans of a historical collection of Turkish newspapers (1928–1942). This project was one of the entries at #AçıkHack2 NLP Hackathon 2020.&lt;/p></description></item><item><title>A Reproducible Educational Plan to Teach Mini Autonomous Race Car Programming</title><link>https://husmen.xyz/publications/racecar2020/</link><pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/racecar2020/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
- --&gt;
-&lt;p&gt;As autonomous cars and complex features of them grow in popularity, ensuring that analyses and capabilities are reproducible and repeatable has taken on importance in education plans too. This paper describes a reproducible research plan on mini autonomous race car programming. This educational plan is designed and implemented as part of a summer internship program at Kocaeli University and it consists of theoretical courses and laboratory assignments. A literate programming approach with the Python language is used for programming the race car. To assess the educational program&amp;rsquo;s impact on the learning process and to evaluate the acceptance and satisfaction level of students, they answered an electronic questionnaire after finishing the program. According to students&amp;rsquo; feedback, the reproducible educational program is useful for learning and consolidating new concepts of mini autonomous car programming.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Artificial Algae Algorithm</title>
-      <link>/portfolio/aaa/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/portfolio/aaa/</guid>
-      <description>&lt;p&gt;Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
-Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eight-Point Algorithm</title>
-      <link>/portfolio/eight-point/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/eight-point/</guid>
-      <description>&lt;p&gt;Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TezHaber</title>
-      <link>/portfolio/tezhaber/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/tezhaber/</guid>
-      <description>&lt;p&gt;Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example. This project won 2nd place at #AçıkHack NLP Hackathon 2019.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DoCA: A Content-Based Automatic Classification System Over Digital Documents</title>
-      <link>/publications/doca2019/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publications/doca2019/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
+-->
+&lt;p>As autonomous cars and complex features of them grow in popularity, ensuring that analyses and capabilities are reproducible and repeatable has taken on importance in education plans too. This paper describes a reproducible research plan on mini autonomous race car programming. This educational plan is designed and implemented as part of a summer internship program at Kocaeli University and it consists of theoretical courses and laboratory assignments. A literate programming approach with the Python language is used for programming the race car. To assess the educational program&amp;rsquo;s impact on the learning process and to evaluate the acceptance and satisfaction level of students, they answered an electronic questionnaire after finishing the program. According to students&amp;rsquo; feedback, the reproducible educational program is useful for learning and consolidating new concepts of mini autonomous car programming.&lt;/p></description></item><item><title>Artificial Algae Algorithm</title><link>https://husmen.xyz/portfolio/aaa/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/aaa/</guid><description>&lt;p>Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
+Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p></description></item><item><title>Eight-Point Algorithm</title><link>https://husmen.xyz/portfolio/eight-point/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/eight-point/</guid><description>&lt;p>Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p></description></item><item><title>TezHaber</title><link>https://husmen.xyz/portfolio/tezhaber/</link><pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/tezhaber/</guid><description>&lt;p>Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example. This project won 2nd place at #AçıkHack NLP Hackathon 2019.&lt;/p></description></item><item><title>DoCA: A Content-Based Automatic Classification System Over Digital Documents</title><link>https://husmen.xyz/publications/doca2019/</link><pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/doca2019/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
- --&gt;
-&lt;p&gt;Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scope Based Timer</title>
-      <link>/portfolio/scope-timer/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/scope-timer/</guid>
-      <description>&lt;p&gt;C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>House Prices Prediction</title>
-      <link>/portfolio/house-prices/</link>
-      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/house-prices/</guid>
-      <description>&lt;p&gt;House Prices Prediction with XGBoost and LightGBM for regression and Scikit-Learn grid search for hyperparameters optimization.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Car Accident Detector</title>
-      <link>/portfolio/accident-detector/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/accident-detector/</guid>
-      <description>&lt;p&gt;How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/AMamdaniccident.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/AMamdaniccident_hu4a1f8468ac37bd2bff72932a286de8f2_108026_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner_hue1a914245fe2e0a30634fa76d106620d_184936_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniFIS.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniFIS_hucb21d451cf048e51d41c3bf9de661bc8_384726_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipDistance.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipDistance_huf8f25b465568061c91a9301c61dc4f02_102500_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipSpeed.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipSpeed_hufde26307732097882284514e4fce7847_102766_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/Rules.PNG&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/Rules_hu882056e5847fc85893e2f5b5be785b46_28679_0x190_resize_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;223&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoAccident.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoAccident_hu5ee3c1e8cc57e25c80d44639b897c451_89086_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoDesigner.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoDesigner_hud850f41138c9213d17b5b328085108ea_178851_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoFIS.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoFIS_hu76745ce707a91b4495a96201187fd850_414404_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FourPlusOne</title>
-      <link>/portfolio/fourplusone/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/fourplusone/</guid>
-      <description>&lt;p&gt;Autonomous Driving System for mini vehicles (MIT-RACECAR), deployed with ROS on a Jetson TX2. More details will be added soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;
- | 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;
-&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;
-: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-&lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;$$
-f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/aside&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Video Streaming</title>
-      <link>/portfolio/kafka-stream/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/kafka-stream/</guid>
-      <description>&lt;p&gt;Distributed Video Streaming with Apache Kafka and Python.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DoCA GUI</title>
-      <link>/portfolio/doca-gui/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/doca-gui/</guid>
-      <description>&lt;p&gt;Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>QuadTree</title>
-      <link>/portfolio/quadtree/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/quadtree/</guid>
-      <description>&lt;p&gt;Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trajectory Mapping</title>
-      <link>/portfolio/trajectory-mapping/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/trajectory-mapping/</guid>
-      <description>&lt;p&gt;A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1.png&#34; data-caption=&#34;Connecting to the server where queries are handled.&#34;&gt;
-  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1_hubb989b0b654eaf0b48040880d07d6a15_45429_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2.png&#34; data-caption=&#34;Plotting the full trajectory.&#34;&gt;
-  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2_huc8748897c25c18db7be5caa82544af4e_1317234_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3.png&#34; data-caption=&#34;Plotting the simplified trajectory.&#34;&gt;
-  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3_huc8748897c25c18db7be5caa82544af4e_1320647_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Naive Bayes Classifier</title>
-      <link>/portfolio/naivebayes/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/naivebayes/</guid>
-      <description>&lt;p&gt;Naive Bayes Classifier for Turkish Text.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Simple Image Processing</title>
-      <link>/portfolio/image-proc/</link>
-      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/image-proc/</guid>
-      <description>&lt;p&gt;Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Better Than Google</title>
-      <link>/portfolio/better-than-google/</link>
-      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/portfolio/better-than-google/</guid>
-      <description>&lt;p&gt;a better than Google search engine (&lt;em&gt;sarcasm&lt;/em&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IAESTE Kocaeli</title>
-      <link>/portfolio/iaeste/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/portfolio/iaeste/</guid>
-      <description>&lt;p&gt;Static website for IAESTE Kocaeli, was the official organisation portal in 2016 and 2017.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+-->
+&lt;p>Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p></description></item><item><title>Scope Based Timer</title><link>https://husmen.xyz/portfolio/scope-timer/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/scope-timer/</guid><description>&lt;p>C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p></description></item><item><title>House Prices Prediction</title><link>https://husmen.xyz/portfolio/house-prices/</link><pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/house-prices/</guid><description>&lt;p>House Prices Prediction with XGBoost and LightGBM for regression and Scikit-Learn grid search for hyperparameters optimization.&lt;/p></description></item><item><title>Car Accident Detector</title><link>https://husmen.xyz/portfolio/accident-detector/</link><pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/accident-detector/</guid><description>&lt;p>How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/AMamdaniccident.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/AMamdaniccident_hu4a1f8468ac37bd2bff72932a286de8f2_108026_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="AMamdaniccident.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MamdaniDesigner.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MamdaniDesigner_hue1a914245fe2e0a30634fa76d106620d_184936_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MamdaniDesigner.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MamdaniFIS.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MamdaniFIS_hucb21d451cf048e51d41c3bf9de661bc8_384726_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MamdaniFIS.png" width="750" height="380">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MembershipDistance.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MembershipDistance_huf8f25b465568061c91a9301c61dc4f02_102500_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MembershipDistance.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MembershipSpeed.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MembershipSpeed_hufde26307732097882284514e4fce7847_102766_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MembershipSpeed.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/Rules.PNG" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/Rules_hu882056e5847fc85893e2f5b5be785b46_28679_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Rules.PNG" width="562" height="479">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoAccident.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoAccident_hu5ee3c1e8cc57e25c80d44639b897c451_89086_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoAccident.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoDesigner.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoDesigner_hud850f41138c9213d17b5b328085108ea_178851_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoDesigner.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoFIS.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoFIS_hu76745ce707a91b4495a96201187fd850_414404_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoFIS.png" width="750" height="380">
+&lt;/a>
+&lt;/div>
+&lt;/div></description></item><item><title>FourPlusOne</title><link>https://husmen.xyz/portfolio/fourplusone/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/fourplusone/</guid><description>&lt;p>Autonomous Driving System for mini vehicles (MIT-RACECAR), deployed with ROS on a Jetson TX2. More details will be added soon.&lt;/p></description></item><item><title>Video Streaming</title><link>https://husmen.xyz/portfolio/kafka-stream/</link><pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/kafka-stream/</guid><description>&lt;p>Distributed Video Streaming with Apache Kafka and Python.&lt;/p></description></item><item><title>DoCA GUI</title><link>https://husmen.xyz/portfolio/doca-gui/</link><pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/doca-gui/</guid><description>&lt;p>Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p></description></item><item><title>QuadTree</title><link>https://husmen.xyz/portfolio/quadtree/</link><pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/quadtree/</guid><description>&lt;p>Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p></description></item><item><title>Trajectory Mapping</title><link>https://husmen.xyz/portfolio/trajectory-mapping/</link><pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/trajectory-mapping/</guid><description>&lt;p>A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_1.png" data-caption="Connecting to the server where queries are handled.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_1_hubb989b0b654eaf0b48040880d07d6a15_45429_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Connecting to the server where queries are handled." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_2.png" data-caption="Plotting the full trajectory.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_2_huc8748897c25c18db7be5caa82544af4e_1317234_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Plotting the full trajectory." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_3.png" data-caption="Plotting the simplified trajectory.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_3_huc8748897c25c18db7be5caa82544af4e_1320647_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Plotting the simplified trajectory." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;/div></description></item><item><title>Naive Bayes Classifier</title><link>https://husmen.xyz/portfolio/naivebayes/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/naivebayes/</guid><description>&lt;p>Naive Bayes Classifier for Turkish Text.&lt;/p></description></item><item><title>Simple Image Processing</title><link>https://husmen.xyz/portfolio/image-proc/</link><pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/image-proc/</guid><description>&lt;p>Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p></description></item><item><title>Better Than Google</title><link>https://husmen.xyz/portfolio/better-than-google/</link><pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/better-than-google/</guid><description>&lt;p>a better than Google search engine (&lt;em>sarcasm&lt;/em>).&lt;/p></description></item><item><title>IAESTE Kocaeli</title><link>https://husmen.xyz/portfolio/iaeste/</link><pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/iaeste/</guid><description>&lt;p>Static website for IAESTE Kocaeli, was the official organisation portal in 2016 and 2017.&lt;/p></description></item><item><title>About Me</title><link>https://husmen.xyz/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://husmen.xyz/about/</guid><description/></item><item><title>Efficient Implementation of Artificial Algae Algorithm on CUDA-supported GPUs</title><link>https://husmen.xyz/publications/aaa2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/aaa2022/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+-->
+&lt;p>COMING SOON.&lt;/p></description></item></channel></rss>

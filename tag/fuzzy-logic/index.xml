@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fuzzy Logic | HUSMEN</title><link>https://husmen.xyz/tag/fuzzy-logic/</link><atom:link href="https://husmen.xyz/tag/fuzzy-logic/index.xml" rel="self" type="application/rss+xml"/><description>Fuzzy Logic</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate><image><url>https://husmen.xyz/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Fuzzy Logic</title><link>https://husmen.xyz/tag/fuzzy-logic/</link></image><item><title>Car Accident Detector</title><link>https://husmen.xyz/portfolio/accident-detector/</link><pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/accident-detector/</guid><description>&lt;p>How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/AMamdaniccident.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/AMamdaniccident_hu4a1f8468ac37bd2bff72932a286de8f2_108026_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="AMamdaniccident.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MamdaniDesigner.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MamdaniDesigner_hue1a914245fe2e0a30634fa76d106620d_184936_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MamdaniDesigner.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MamdaniFIS.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MamdaniFIS_hucb21d451cf048e51d41c3bf9de661bc8_384726_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MamdaniFIS.png" width="750" height="380">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MembershipDistance.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MembershipDistance_huf8f25b465568061c91a9301c61dc4f02_102500_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MembershipDistance.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MembershipSpeed.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MembershipSpeed_hufde26307732097882284514e4fce7847_102766_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MembershipSpeed.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/Rules.PNG" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/Rules_hu882056e5847fc85893e2f5b5be785b46_28679_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Rules.PNG" width="562" height="479">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoAccident.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoAccident_hu5ee3c1e8cc57e25c80d44639b897c451_89086_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoAccident.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoDesigner.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoDesigner_hud850f41138c9213d17b5b328085108ea_178851_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoDesigner.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoFIS.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoFIS_hu76745ce707a91b4495a96201187fd850_414404_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoFIS.png" width="750" height="380">
+&lt;/a>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

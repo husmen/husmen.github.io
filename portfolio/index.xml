@@ -1,314 +1,66 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Portfolio | HUSMEN</title>
-    <link>/portfolio/</link>
-      <atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <description>Portfolio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Houssem Menhour</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Portfolio</title>
-      <link>/portfolio/</link>
-    </image>
-    
-    <item>
-      <title>Artificial Algae Algorithm</title>
-      <link>/portfolio/aaa/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/portfolio/aaa/</guid>
-      <description>&lt;p&gt;Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
-Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Eight-Point Algorithm</title>
-      <link>/portfolio/eight-point/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/eight-point/</guid>
-      <description>&lt;p&gt;Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TezHaber</title>
-      <link>/portfolio/tezhaber/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/tezhaber/</guid>
-      <description>&lt;p&gt;Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example. This project won 2nd place at #AçıkHack NLP Hackathon 2019.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scope Based Timer</title>
-      <link>/portfolio/scope-timer/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/scope-timer/</guid>
-      <description>&lt;p&gt;C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>House Prices Prediction</title>
-      <link>/portfolio/house-prices/</link>
-      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/house-prices/</guid>
-      <description>&lt;p&gt;House Prices Prediction with XGBoost and LightGBM for regression and Scikit-Learn grid search for hyperparameters optimization.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Car Accident Detector</title>
-      <link>/portfolio/accident-detector/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/accident-detector/</guid>
-      <description>&lt;p&gt;How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/AMamdaniccident.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/AMamdaniccident_hu4a1f8468ac37bd2bff72932a286de8f2_108026_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniDesigner_hue1a914245fe2e0a30634fa76d106620d_184936_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MamdaniFIS.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MamdaniFIS_hucb21d451cf048e51d41c3bf9de661bc8_384726_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipDistance.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipDistance_huf8f25b465568061c91a9301c61dc4f02_102500_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/MembershipSpeed.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/MembershipSpeed_hufde26307732097882284514e4fce7847_102766_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/Rules.PNG&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/Rules_hu882056e5847fc85893e2f5b5be785b46_28679_0x190_resize_lanczos_2.PNG&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;223&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoAccident.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoAccident_hu5ee3c1e8cc57e25c80d44639b897c451_89086_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoDesigner.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoDesigner_hud850f41138c9213d17b5b328085108ea_178851_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/accident-detector/gallery/SugenoFIS.png&#34; &gt;
-  &lt;img data-src=&#34;/portfolio/accident-detector/gallery/SugenoFIS_hu76745ce707a91b4495a96201187fd850_414404_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;375&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>FourPlusOne</title>
-      <link>/portfolio/fourplusone/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/portfolio/fourplusone/</guid>
-      <description>&lt;p&gt;Autonomous Driving System for mini vehicles (MIT-RACECAR), deployed with ROS on a Jetson TX2. More details will be added soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Video Streaming</title>
-      <link>/portfolio/kafka-stream/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/kafka-stream/</guid>
-      <description>&lt;p&gt;Distributed Video Streaming with Apache Kafka and Python.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>DoCA GUI</title>
-      <link>/portfolio/doca-gui/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/doca-gui/</guid>
-      <description>&lt;p&gt;Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>QuadTree</title>
-      <link>/portfolio/quadtree/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/quadtree/</guid>
-      <description>&lt;p&gt;Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trajectory Mapping</title>
-      <link>/portfolio/trajectory-mapping/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/trajectory-mapping/</guid>
-      <description>&lt;p&gt;A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p&gt;
-
-
-
-
-
-
-
-
-  
-  
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1.png&#34; data-caption=&#34;Connecting to the server where queries are handled.&#34;&gt;
-  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_1_hubb989b0b654eaf0b48040880d07d6a15_45429_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2.png&#34; data-caption=&#34;Plotting the full trajectory.&#34;&gt;
-  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_2_huc8748897c25c18db7be5caa82544af4e_1317234_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-        
-      
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3.png&#34; data-caption=&#34;Plotting the simplified trajectory.&#34;&gt;
-  &lt;img data-src=&#34;/portfolio/trajectory-mapping/gallery/Screenshot_3_huc8748897c25c18db7be5caa82544af4e_1320647_0x190_resize_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;338&#34; height=&#34;190&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Naive Bayes Classifier</title>
-      <link>/portfolio/naivebayes/</link>
-      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/naivebayes/</guid>
-      <description>&lt;p&gt;Naive Bayes Classifier for Turkish Text.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Simple Image Processing</title>
-      <link>/portfolio/image-proc/</link>
-      <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/portfolio/image-proc/</guid>
-      <description>&lt;p&gt;Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Better Than Google</title>
-      <link>/portfolio/better-than-google/</link>
-      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/portfolio/better-than-google/</guid>
-      <description>&lt;p&gt;a better than Google search engine (&lt;em&gt;sarcasm&lt;/em&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IAESTE Kocaeli</title>
-      <link>/portfolio/iaeste/</link>
-      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/portfolio/iaeste/</guid>
-      <description>&lt;p&gt;Static website for IAESTE Kocaeli, was the official organisation portal in 2016 and 2017.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolio | HUSMEN</title><link>https://husmen.xyz/portfolio/</link><atom:link href="https://husmen.xyz/portfolio/index.xml" rel="self" type="application/rss+xml"/><description>Portfolio</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><image><url>https://husmen.xyz/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>Portfolio</title><link>https://husmen.xyz/portfolio/</link></image><item><title>AcikHack2-GazetedanTariheBakis</title><link>https://husmen.xyz/portfolio/gazetedentarihebakis/</link><pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/gazetedentarihebakis/</guid><description>&lt;p>A full-text search engine from scans of a historical collection of Turkish newspapers (1928–1942). This project was one of the entries at #AçıkHack2 NLP Hackathon 2020.&lt;/p></description></item><item><title>Artificial Algae Algorithm</title><link>https://husmen.xyz/portfolio/aaa/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/aaa/</guid><description>&lt;p>Artificial Algae Algorithm, Implementation in Python and Cuda C++ with a dozen of optimization functions.
+Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae. Artificial algae correspond to each solution in the problem space by idealizing the characteristics of algae. Similar to the real algae, artificial algae can move toward the source of light to photosynthesize with helical swimming, and they can adapt to the environment, are able to change the dominant species and can reproduce by mitotic division. Thus, the algorithm was composed of 3 basic parts called “Evolutionary Process”, “Adaptation” and “Helical Movement”.&lt;/p></description></item><item><title>Eight-Point Algorithm</title><link>https://husmen.xyz/portfolio/eight-point/</link><pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/eight-point/</guid><description>&lt;p>Implementation of Eight-Point Algorithm in C++. OpenCV variant is provided forcomparison only.&lt;/p></description></item><item><title>TezHaber</title><link>https://husmen.xyz/portfolio/tezhaber/</link><pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/tezhaber/</guid><description>&lt;p>Centroid-based Text Summarization through Compositionality of Word Embeddings. Adopted to the turkish language, and demonstrated with news aggregation and summarization as a use case example. This project won 2nd place at #AçıkHack NLP Hackathon 2019.&lt;/p></description></item><item><title>Scope Based Timer</title><link>https://husmen.xyz/portfolio/scope-timer/</link><pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/scope-timer/</guid><description>&lt;p>C++ implementation of scope based timer, it is offered as a class to be easily imported to any existing project.&lt;/p></description></item><item><title>House Prices Prediction</title><link>https://husmen.xyz/portfolio/house-prices/</link><pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/house-prices/</guid><description>&lt;p>House Prices Prediction with XGBoost and LightGBM for regression and Scikit-Learn grid search for hyperparameters optimization.&lt;/p></description></item><item><title>Car Accident Detector</title><link>https://husmen.xyz/portfolio/accident-detector/</link><pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/accident-detector/</guid><description>&lt;p>How likely is an autonomous car to cause an accident/How hard it should brake depending on its speed and the distance to the next car. This is a fuzzy logic based car accident detector in Matlab.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/AMamdaniccident.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/AMamdaniccident_hu4a1f8468ac37bd2bff72932a286de8f2_108026_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="AMamdaniccident.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MamdaniDesigner.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MamdaniDesigner_hue1a914245fe2e0a30634fa76d106620d_184936_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MamdaniDesigner.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MamdaniFIS.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MamdaniFIS_hucb21d451cf048e51d41c3bf9de661bc8_384726_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MamdaniFIS.png" width="750" height="380">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MembershipDistance.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MembershipDistance_huf8f25b465568061c91a9301c61dc4f02_102500_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MembershipDistance.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/MembershipSpeed.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/MembershipSpeed_hufde26307732097882284514e4fce7847_102766_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="MembershipSpeed.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/Rules.PNG" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/Rules_hu882056e5847fc85893e2f5b5be785b46_28679_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Rules.PNG" width="562" height="479">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoAccident.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoAccident_hu5ee3c1e8cc57e25c80d44639b897c451_89086_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoAccident.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoDesigner.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoDesigner_hud850f41138c9213d17b5b328085108ea_178851_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoDesigner.png" width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-accident-detector" href="https://husmen.xyz/media/albums/accident-detector/SugenoFIS.png" >
+&lt;img src="https://husmen.xyz/media/albums/accident-detector/SugenoFIS_hu76745ce707a91b4495a96201187fd850_414404_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="SugenoFIS.png" width="750" height="380">
+&lt;/a>
+&lt;/div>
+&lt;/div></description></item><item><title>FourPlusOne</title><link>https://husmen.xyz/portfolio/fourplusone/</link><pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/fourplusone/</guid><description>&lt;p>Autonomous Driving System for mini vehicles (MIT-RACECAR), deployed with ROS on a Jetson TX2. More details will be added soon.&lt;/p></description></item><item><title>Video Streaming</title><link>https://husmen.xyz/portfolio/kafka-stream/</link><pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/kafka-stream/</guid><description>&lt;p>Distributed Video Streaming with Apache Kafka and Python.&lt;/p></description></item><item><title>DoCA GUI</title><link>https://husmen.xyz/portfolio/doca-gui/</link><pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/doca-gui/</guid><description>&lt;p>Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p></description></item><item><title>QuadTree</title><link>https://husmen.xyz/portfolio/quadtree/</link><pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/quadtree/</guid><description>&lt;p>Implementation of a Quadtree with collision detection, built using C++ and QT.&lt;/p></description></item><item><title>Trajectory Mapping</title><link>https://husmen.xyz/portfolio/trajectory-mapping/</link><pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/trajectory-mapping/</guid><description>&lt;p>A client server app for trajectory data mapping/sampling/query in Python 3. This application implements the Ramer-Douglas-Peucker algorithm for trajectroy simplification.&lt;/p>
+&lt;div class="gallery-grid">
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_1.png" data-caption="Connecting to the server where queries are handled.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_1_hubb989b0b654eaf0b48040880d07d6a15_45429_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Connecting to the server where queries are handled." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_2.png" data-caption="Plotting the full trajectory.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_2_huc8748897c25c18db7be5caa82544af4e_1317234_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Plotting the full trajectory." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;div class="gallery-item gallery-item--medium">
+&lt;a data-fancybox="gallery-trajectory-mapping" href="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_3.png" data-caption="Plotting the simplified trajectory.">
+&lt;img src="https://husmen.xyz/media/albums/trajectory-mapping/Screenshot_3_huc8748897c25c18db7be5caa82544af4e_1320647_750x750_fit_q75_h2_lanczos_3.webp" loading="lazy" alt="Plotting the simplified trajectory." width="750" height="422">
+&lt;/a>
+&lt;/div>
+&lt;/div></description></item><item><title>Naive Bayes Classifier</title><link>https://husmen.xyz/portfolio/naivebayes/</link><pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/naivebayes/</guid><description>&lt;p>Naive Bayes Classifier for Turkish Text.&lt;/p></description></item><item><title>Simple Image Processing</title><link>https://husmen.xyz/portfolio/image-proc/</link><pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/image-proc/</guid><description>&lt;p>Implementation of simple image processing algorithms with a GUI, built using C++ and GDI+.&lt;/p></description></item><item><title>Better Than Google</title><link>https://husmen.xyz/portfolio/better-than-google/</link><pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/better-than-google/</guid><description>&lt;p>a better than Google search engine (&lt;em>sarcasm&lt;/em>).&lt;/p></description></item><item><title>IAESTE Kocaeli</title><link>https://husmen.xyz/portfolio/iaeste/</link><pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/iaeste/</guid><description>&lt;p>Static website for IAESTE Kocaeli, was the official organisation portal in 2016 and 2017.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OCR | HUSMEN</title><link>https://husmen.xyz/tag/ocr/</link><atom:link href="https://husmen.xyz/tag/ocr/index.xml" rel="self" type="application/rss+xml"/><description>OCR</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate><image><url>https://husmen.xyz/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url><title>OCR</title><link>https://husmen.xyz/tag/ocr/</link></image><item><title>Searchable Turkish OCRed historical newspaper collection 1928–1942</title><link>https://husmen.xyz/publications/ocr2021/</link><pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/ocr2021/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+-->
+&lt;p>The newspaper emerged as a distinct cultural form in early 17th-century Europe. It is bound up with the early modern period of history. Historical newspapers are of utmost importance to nations and its people, and researchers from different disciplines rely on these papers to improve our understanding of the past. In pursuit of satisfying this need, Istanbul University Head Office of Library and Documentation provides access to a big database of scanned historical newspapers. To take it another step further and make the documents more accessible, we need to run optical character recognition (OCR) and named entity recognition (NER) tasks on the whole database and index the results to allow for full-text search mechanism. We design and implement a system encompassing the whole pipeline starting from scrapping the dataset from the original website to providing a graphical user interface to run search queries, and it manages to do that successfully. Proposed system provides to search people, culture and security-related keywords and to visualise them.&lt;/p></description></item><item><title>AcikHack2-GazetedanTariheBakis</title><link>https://husmen.xyz/portfolio/gazetedentarihebakis/</link><pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/gazetedentarihebakis/</guid><description>&lt;p>A full-text search engine from scans of a historical collection of Turkish newspapers (1928–1942). This project was one of the entries at #AçıkHack2 NLP Hackathon 2020.&lt;/p></description></item><item><title>DoCA: A Content-Based Automatic Classification System Over Digital Documents</title><link>https://husmen.xyz/publications/doca2019/</link><pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate><guid>https://husmen.xyz/publications/doca2019/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Slides&lt;/em> button above to demo Academic&amp;rsquo;s Markdown slides feature.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+-->
+&lt;p>Regardless of industry, the overload of information facing most organizations today is a drain on both individuals and the enterprise itself. The increasing volume of this information, which is stored in different electronic formats, requires new sophisticated systems to analyse and classify them. In this paper, we attempt to implement a framework for Document Classification and Analysis (DoCA) that can simplify and automate such tasks for different file types, namely: office documents (text, spreadsheets, and presentations), scanned documents (images and PDFs), multimedia files (video and audio). Each file type requires different methods for pre-processing, analysis, and classification. The efficiency and feasibility of the DoCA are examined on HAVELSAN dataset and accuracy of different tasks shows that the DoCA is a promising tool for document analysis and classification.&lt;/p></description></item><item><title>DoCA GUI</title><link>https://husmen.xyz/portfolio/doca-gui/</link><pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate><guid>https://husmen.xyz/portfolio/doca-gui/</guid><description>&lt;p>Submission for &amp;ldquo;PARDUS Dosya Sınıflandırma ve Analiz (DoSA)&amp;rdquo; Competition in which we won the first place.&lt;/p></description></item></channel></rss>
